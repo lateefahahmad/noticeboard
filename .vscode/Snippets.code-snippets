@@ -1,0 +1,12 @@
+{
+	"PHP": {
+		"prefix": "php",
+		"body": [
+			"<?php",
+			"",
+			"?>",
+			"",
+		],
+		"description": "PHP Template"
+	}
+}
